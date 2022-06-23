@@ -1,6 +1,6 @@
 # Reflectarray Designer Software
 
-1. Install the software" ReflectArrayDesigner_Installer.exe (Look to your right side)
+1. Install the software" ReflectArrayDesigner_Installer.exe (Look to your right side under releases)
 2. The element library* consists of the patch, double layer and patch ring elements
 3. The feed library consists of the different horn antennas for use in your reflectarray design
 4. The libraries are all designed by me, please only use it for your own research purposes
