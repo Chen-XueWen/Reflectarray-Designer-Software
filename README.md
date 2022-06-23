@@ -6,7 +6,7 @@
 4. The libraries are all designed by me, please only use it for your own research purpose
 
 ```
-Do not click on the "Element Library" button, because I have removed the library from my google drive already.
+Do not click on the "Element Library" button, because I have removed the library from my google drive already, hence I have provided you the option to download from this github
 ```
 
 Please do not distribute the software without my permission, Thank you :)
