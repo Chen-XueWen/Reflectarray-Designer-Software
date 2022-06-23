@@ -25,10 +25,11 @@ Do not click on the "Element Library" & "Feed Library" button, because I have re
 4 When you click on the Radiation Pattern Prediction (based on array theory) it will output:
 <img src="https://user-images.githubusercontent.com/33597628/175244296-e71e8c51-90ce-428b-8800-1e9dc2871c4f.png" width="400">
 
-5. Click on the "Generate" button to generate the DXF file, toggle to MCR if you want MCR file.
-6. Note that please press generate on the correct tab based on the files you are putting in, Square Patch csv & Square Patch tab, Layer csv to Layer tab
-7. A new folder OneStopRA will be generated, containing the scripts
-8. Aperture Efficiency Calculator provides user a convenient place the reflectarray efficiency after they have done the simulation in CST
+5. Click on the "Generate" button to generate the DXF file (You will need AutoCAD to convert SCR to DXF)
+6. Toggle to MCR if you want MCR file, work natively with CST, so you do not need AutoCAD for this option
+7. Note that please press generate on the correct tab based on the files you are putting in, Square Patch csv & Square Patch tab, Layer csv to Layer tab
+8. A new folder "OneStopRA" will be generated, containing the scripts
+9. Aperture Efficiency Calculator provides user a convenient place the reflectarray efficiency after they have done the simulation in CST
 
 Thats all
 
