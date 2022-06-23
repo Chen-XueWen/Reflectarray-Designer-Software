@@ -15,7 +15,8 @@ Do not click on the "Element Library" button, because I have removed the library
 3. After design is complete, the reflectarray characteristics will light up as shown below, this will allow you to understand your design better
 ![image](https://user-images.githubusercontent.com/33597628/175242946-2b3218e3-1d43-4c54-a0fc-383b5cb9e6bd.png)
 4. Click on the "Generate" button to generate the DXF file, toggle to MCR if you want MCR file.
-5. Thats all
+5. Note that please press generate on the correct tab based on the files you are putting in, Square Patch csv & Square Patch tab, Layer csv to Layer tab
+6. Thats all
 
 
 
