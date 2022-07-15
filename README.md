@@ -36,4 +36,4 @@ Thats all
 Please do not distribute the software without my permission, Thank you :)
 
 P.S.
-*I have only published the 28GHz elements and no longer working on this project or any reflectarray related research*
+*I have only published the 28GHz elements and no longer working on or maintaining this project or any reflectarray related research*
