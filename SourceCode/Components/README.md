@@ -2,5 +2,5 @@
 2. Run PhaseDistribution.m 
 (output:PhaseDistribution.csv,Coordinates.csv, ElementNum.csv)
 3. Run Mapping.m (input:ElementPhase.csv input:PhaseDistribution) (output: ElementDim.csv)
-4. Run ScriptAutomator.m (input: ElementDim.csv, Coordinates.csv, ElementNum.csv
-5. Reflectarrayscript.scr
+4. Run ScriptAutomator.m (input: ElementDim.csv, Coordinates.csv, ElementNum.csv)
+5. Final Output: Reflectarrayscript.scr (For CAD Drawing which can be exported to CST)
