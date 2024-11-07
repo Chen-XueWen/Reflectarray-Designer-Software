@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Reflectarray Designer Software
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Xue Wen Tan
+repository-code: >-
+  https://github.com/Chen-XueWen/Reflectarray-Designer-Software
+abstract: >-
+  Automate reflectarray design and useful for teaching
+  newcomers in the reflectarray antenna domain. 
+license: MIT
