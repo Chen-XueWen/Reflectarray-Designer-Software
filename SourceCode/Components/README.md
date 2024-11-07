@@ -1,4 +1,4 @@
-1. Get ElementPhase.csv first
+1. Get ElementPhase.csv first from the CST software for your element design
 2. Run PhaseDistribution.m 
 (output:PhaseDistribution.csv,Coordinates.csv, ElementNum.csv)
 3. Run Mapping.m (input:ElementPhase.csv input:PhaseDistribution) (output: ElementDim.csv)
