@@ -37,3 +37,13 @@ Please do not distribute the software without my permission, Thank you :)
 
 P.S.
 *I have only published the 28GHz elements and no longer working on or maintaining this project or any reflectarray related research*
+
+Please cite the following:
+```
+@software{Xue_Wen_Tan_Reflectarray_Designer_Software,
+author = {Xue Wen Tan},
+license = {MIT},
+title = {{Reflectarray Designer Software}},
+url = {https://github.com/Chen-XueWen/Reflectarray-Designer-Software}
+}
+```
